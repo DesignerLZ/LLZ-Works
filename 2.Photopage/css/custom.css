@@ -1,0 +1,36 @@
+#logo01{
+    position: absolute;
+}
+.c-layout-quick-sidebar{
+    background-color: rgba(216,216,216,1);
+}
+.photos-meixue{
+    position: absolute;
+    
+    
+}
+.c-content-feature-4{
+    overflow: hidden;
+}
+.title-font-01{
+    font-family:"Century Gothic","SimHei";
+    font-style:normal;
+    color:rgba(102,102,102,1);
+}
+.mini-title-font-01{
+    font-family:"Century Gothic","SimHei";
+    font-style:normal;
+    color:rgba(102,102,102,1);
+}
+#dark-box{
+    top:69%;
+    position:absolute;
+    height:19%;
+    width:100%;
+    background-color: rgba(255,255,255,0.9);
+    z-index: 4;
+}
+#toppanel{
+    color:white;
+    background: white;
+}
