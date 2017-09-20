@@ -13,12 +13,12 @@
 .title-font-01{
     font-family:"Century Gothic","SimHei";
     font-style:normal;
-    color:rgba(102,102,102,1);
+    color:rgba(255,255,255,1);
 }
 .mini-title-font-01{
     font-family:"Century Gothic","SimHei";
     font-style:normal;
-    color:rgba(102,102,102,1);
+    color:rgba(255,255,255,1);
 }
 #dark-box{
     top:69%;
@@ -35,3 +35,10 @@
 #modelbox{
     overflow: hidden;
 }
+#showbox01{
+    overflow: hidden;
+}
+#showbox02{
+    overflow: hidden;
+}
+    
