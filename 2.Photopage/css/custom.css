@@ -34,3 +34,18 @@
     color:white;
     background: white;
 }
+.c-mobile-logo{
+    width:30px;
+}
+.label-01{
+    width:20%;
+    min-width: 30px;
+    position: absolute;
+    left:0%;
+}
+.label-02{
+    width:20%;
+    min-width: 30px;
+    position: absolute;
+    right:0%;
+}
